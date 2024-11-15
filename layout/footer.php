@@ -10,7 +10,7 @@
               <p>Ravolution Street 66</p>
               <p>Holy Shit, Nightmare Nirvana </p>
               <p class="mt-3"><strong>Phone:</strong> <span>+49 172 633 44 30</span></p>
-              <p><strong>Email:</strong> <span>Trustme@imyourdj.com</span></p>
+              <p><strong>Email:</strong> <span>trustme@imyourdj.com</span></p>
             </div>
             <div class="social-links d-flex mt-4">
               <a href="https://twitter.com/sub_zeroproject?lang=de"><i class="bi bi-twitter-x"></i></a>
@@ -32,7 +32,7 @@
 
         <div class="col-lg-4 col-md-12 footer-newsletter">
           <h4>Our Newsletter</h4>
-          <p>Subscribe to our newsletter and receive the latest news about our products and services!</p>
+          <p>Subscribe to get the Bass in your m*therf*ckin´ face</p>
           <form action="forms/newsletter.php" method="post" class="php-email-form">
             <div class="newsletter-form"><input type="email" name="email"><input type="submit" value="Subscribe"></div>
             <div class="loading">Loading</div>

@@ -9,7 +9,7 @@
     
   <span>Contact</span>
   <h2>Contact</h2>
-  <p>My house is your house and your house is mine</p>
+  <p>Only good people listen to Hardstyle Music!</p>
 </div><!-- End Section Title -->
 
 <div class="container" data-aos="fade-up" data-aos-delay="100">

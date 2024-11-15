@@ -1,7 +1,8 @@
 <?php require_once('layout/header.php'); ?>
 <link rel="stylesheet" href="aboutstyle.css">
-<div class="foto">
-    <img src="./assets/img/bio.jfif" alt="foto">
+<div>
+    <button id="hide">Klick mich</button>
+<a href="secret.php" id="hiddenLink" aria-hidden="true">
 </div>
 
 <div class="abouttext">
