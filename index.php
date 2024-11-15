@@ -9,7 +9,9 @@
       <div class="col-lg-6">
         <h2>Sub Zero Project</h2>
         <p>The real Kings of Hardstyle</p>
-        <a href="about.php" class="btn-get-started">Let´s Go</a>
+        <button id="go" class="btn-get-started">Let´s Go</>
+        <audio id="laser" src="assets/music/Sub Zero Project - Laser.mp3"></audio>
+        <script src="./assets/js/script5.js"></script>
       </div>
     </div>
   </div>
