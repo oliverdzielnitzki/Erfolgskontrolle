@@ -1,0 +1,66 @@
+h1 {
+    text-align: center;
+    color: orange;
+    font-size: 3rem;
+    margin-top: 30px;
+}
+body
+{
+background-image: url("./assets/img/laser.jpg");
+background-repeat: no-repeat;
+background-size: 100%;
+background-position: top;
+}
+.Technobots {
+margin-left: 30px;
+}
+.Astronauts {
+margin-right: 30px;
+}
+.Lions {
+margin-right: 30px;
+}
+#a2 {
+color: red;
+animation: rotation 6s infinite ;
+perspective: 600px;
+}
+@keyframes rotation {
+from {
+transform: rotateX(0deg) rotateY(0deg);
+}
+to {
+transform: rotateX(360deg) rotateY(360deg);
+}}
+#Nightmare {
+margin-left: 30px;
+cursor: pointer;
+transition: transform 0.3s ease-in-out;
+}
+#Nightmare:hover {
+transform: scale(1.1);
+}
+#Technobots {
+margin-left: 30px;
+cursor: pointer;
+transition: transform 0.3s ease-in-out;
+}
+#Technobots:hover {
+transform: scale(1.1);
+}
+#Astronauts {
+margin-right: 30px;
+cursor: pointer;
+transition: transform 0.3s ease-in-out;
+}
+#Astronauts:hover {
+transform: scale(1.1) ;
+}
+#Lions {
+margin-right: 30px;
+cursor: pointer;
+transition: transform 0.3s ease-in-out;
+}
+#Lions:hover {
+transform: scale(1.1)
+}
