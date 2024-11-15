@@ -5,7 +5,7 @@
     <h1>Our new Video is online!</h1>
 </div>
 
-<div style="text-align:center;">
+<div style="margin-left: 50px">
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/n1AQS9snLXs?si=gn9v3Mau8g7AMebI"
         title="YouTube video player" frameborder="0"

@@ -1,9 +1,9 @@
 body
 {
-background-image: url("./assets/img/moon.jpg");
+background-image: url("./assets/img/newbeginning.jpg");
 background-repeat: no-repeat;
 background-size: 100%;
-background-position: center;
+background-position: top;
 }
 .VideoHL{
     margin-top: 100px;

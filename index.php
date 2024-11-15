@@ -9,7 +9,7 @@
       <div class="col-lg-6">
         <h2>Sub Zero Project</h2>
         <p>The real Kings of Hardstyle</p>
-        <a href="#about" class="btn-get-started">Let´s Go</a>
+        <a href="about.php" class="btn-get-started">Let´s Go</a>
       </div>
     </div>
   </div>
