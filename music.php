@@ -3,10 +3,11 @@
 </head>
 
 <body>
-    
-    
-
-    <h1 style="color:orange;margin-top:40px;"><center>Can you feel the Bass?</center></h1>
+    <br>
+    <br>
+    <h1 style="color:orange;margin-top:40px;">
+        <center>Can you feel the Bass?</center>
+    </h1>
     <img src="./assets/img/NightmareNirvana.jfif" id="Nightmare" alt="Start Audio" width="300">
     <audio id="Nirvana" src="./assets/music/Sub Zero Project ft. Diandra Faye - Nightmare Nirvana.mp3"></audio>
     <script src="assets/js/script1.js"></script>
@@ -29,8 +30,9 @@
     <br>
     <div class="news">
         <br>
-        <p style="color: yellowgreen; font-size: 24px; text-align: center;">>>>Next up: Robot Ravolution<<<</p>
-                <p style="color: yellowgreen; font-size: 24px; text-align: center;">>>>Release: November 15th, 2024<<<</p>
+        <p style="color: yellowgreen; font-size: 24px; text-align: center;">>>>Next up: Robot Ravolution<<<< /p>
+                <p style="color: yellowgreen; font-size: 24px; text-align: center;">>>>Release: November 15th, 2024<<<<
+                        /p>
     </div>
 
 </body>

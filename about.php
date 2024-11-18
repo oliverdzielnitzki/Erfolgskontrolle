@@ -2,15 +2,15 @@
 <link rel="stylesheet" href="aboutstyle.css">
 <div>
     <button id="hide">Klick mich</button>
-<a href="secret.php" id="hiddenLink" aria-hidden="true">
+    <a href="secret.php" id="hiddenLink" aria-hidden="true">
 </div>
 
 <div class="abouttext">
-
+    <br>
     <h1><span class="unterstrich">Genre: Hardstyle</span></h1>
-    
+    <br>
     <h2><span class="unterstrich">Origin: Netherlands</span></h2>
-    
+    <br>
     <p>Hardstyle Duo <span class="hervor">Sub Zero Project</span> aka Nigel Coppen and Thomas Velderman</p>
     <p>have taken the Hardstyle scene by storm. They started their careers in 2014.
     <p>The combination of high quality productions and a unique signature sound,</p>
@@ -18,6 +18,7 @@
     <p><span class="hervor">Sub Zero Project</span> is best known for their hits within Hardstyle,</p>
     <p>such as: ‘Darkest Hour’, ‘Our Church’, ‘Halo’ and ‘Trip To Mars’.</p>
     <p>All of these bangers have reached tens of millions of streams.</p>
+    <br>
     <p>Thanks to their success, <span class="hervor">Sub Zero Project</span> have been able to spread
     <p>their sound on a global scale by performing on the biggest dance stages in the scene:</p>
     <p>Tomorrowland, Electric Daisy Carnaval, Defqon.1 Weekend Festival,</p>

@@ -27,8 +27,9 @@ background-position: top;
     text-indent: 2em;
     color:rgb(182, 56, 144);
 }
-.video{
-    margin-left: 50px;
-    border: 4px whitesmoke;
-}
 
+.video-container {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 50px;
+  }

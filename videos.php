@@ -6,13 +6,18 @@
 
 </div>
 
-<div style="margin-left: 50px">
+<div class="video-container" style="margin-left: 50px">
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/n1AQS9snLXs?si=gn9v3Mau8g7AMebI"
         title="YouTube video player" frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
         referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+    <div class="video2" style="float: right; margin-right:50px">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/1KLkCImfUUE?si=iC23I_zXZVPq7s1f"
+            title="YouTube video player" frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
 </div>
 <div class="videotext">
     <br>
@@ -20,18 +25,19 @@
     <br>
     <h3>on all known Platforms.</h3>
     <br>
-    <h2>One of our most viewed:</h2>
-    <div class="video">
-    <video width="400" height="300" controls>
-         <source src="assets/vid/brennan.mp4" type="video/mp4">
-    </video>
-    <div class="smiley">
-        <img src="assets/img/szgif.gif" alt="">
-    </div>
+    <h2>
+        <center><span style="font-weight: bold;">One of our most viewed:</span></center>
+    </h2>
     <br>
-    <br>
+    <div class="video" style="text-align: center; margin-left: 280px;">
+        <video width="600" height="300" controls>
+            <source src="assets/vid/brennan.mp4" type="video/mp4">
+        </video>
+        <div class="smiley">
+            <img src="assets/img/szgif.gif" alt="">
+        </div>
+        <br>
+        <br>
     </div>
 
-
-
-<?php require_once('layout/footer.php'); ?>
+    <?php require_once('layout/footer.php'); ?>
