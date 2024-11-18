@@ -3,9 +3,8 @@
 </head>
 
 <body>
-    <br>
-    <br>
-    <br>
+    
+    
 
     <h1 style="color:orange;margin-top:40px;"><center>Can you feel the Bass?</center></h1>
     <img src="./assets/img/NightmareNirvana.jfif" id="Nightmare" alt="Start Audio" width="300">

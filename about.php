@@ -6,11 +6,11 @@
 </div>
 
 <div class="abouttext">
-    <br>
+
     <h1><span class="unterstrich">Genre: Hardstyle</span></h1>
-    <br>
+    
     <h2><span class="unterstrich">Origin: Netherlands</span></h2>
-    <br>
+    
     <p>Hardstyle Duo <span class="hervor">Sub Zero Project</span> aka Nigel Coppen and Thomas Velderman</p>
     <p>have taken the Hardstyle scene by storm. They started their careers in 2014.
     <p>The combination of high quality productions and a unique signature sound,</p>

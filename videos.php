@@ -22,7 +22,7 @@
     <br>
     <h2>One of our most viewed:</h2>
     <div class="video">
-    <video width="480" height="360" controls>
+    <video width="400" height="300" controls>
          <source src="assets/vid/brennan.mp4" type="video/mp4">
     </video>
     <div class="smiley">

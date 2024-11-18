@@ -5,7 +5,7 @@
 
 <!-- Section Title -->
 <div class="container section-title" data-aos="fade-up">
-    <br>
+  <br>
     
   <span>Contact</span>
   <h2>Contact</h2>

@@ -1,4 +1,5 @@
 <?php require_once('layout/header.php'); ?>
+<link rel="stylesheet" href="indexstyle.css">
 
 <section id="hero" class="hero section dark-background">
 
@@ -9,9 +10,10 @@
       <div class="col-lg-6">
         <h2>Sub Zero Project</h2>
         <p>The real Kings of Hardstyle</p>
-        <button style="background-color: transparent;" id="go" class="btn-get-started">Let´s Go</>
-        <audio id="laser" src="assets/music/Sub Zero Project - Laser.mp3"></audio>
+        <button style="background-color: transparent;" id="go" class="btn-get-started">Let´s Go</></button>
+        <audio id="laser" src="assets/music/Sub Zero Project - Laser.mp3"></audio>       
         <script src="./assets/js/script5.js"></script>
+        
       </div>
     </div>
   </div>
